@@ -166,7 +166,7 @@ header nav p a:hover {background-color:#222;}
 .wrap #project2 .contents .design1 .swiper-wrapper {transition-timing-function: linear; }
 .wrap #project2 .contents .design2 {width:100%; margin:0; height:370px; background:#000000;  border-radius:5px; margin-bottom: 40px;}
 .wrap #project2 .contents .design2 .swiper-wrapper {transition-timing-function: linear;}
-.wrap #project2 .contents .design3 {width:400px; height:700px; background:rgb(2, 2, 2); border-radius:5px;}
+.wrap #project2 .contents .design3 {width:300px; height:700px; background:rgb(2, 2, 2); border-radius:5px;}
 .wrap #project2 .contents .swiper-slide img {width:100%; transition: all 0.5s;}
 .wrap #project2 .contents .swiper-slide img:hover {transform:rotate(3deg)}/* 프로젝트 마우스 오버 효과 */
 /* .wrap #project2 .contents .design3 img {animation:design3img 20s infinite linear alternate;} */
