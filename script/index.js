@@ -10,7 +10,7 @@ const webslide = new Swiper('#project1 .web', {
 
 /* 배너디자인 프로젝트 소개 */
 const designslide1 = new Swiper('#project2 .design1', {
-    autoplay:{delay:0, desableOnInteraction: false,},
+    autoplay:{delay:0, disableOnInteraction: false,},
     speed:4000,
     loop:true,
     slidesPerView:3,
@@ -19,7 +19,7 @@ const designslide1 = new Swiper('#project2 .design1', {
 
 /* SNS디자인 프로젝트 소개 */
 const designslide2 = new Swiper('#project2 .design2', {
-    autoplay:{delay:0, desableOnInteraction: false, },
+    autoplay:{delay:0, disableOnInteraction: false, },
     speed:6000,
     loop:true,
     slidesPerView:3,
