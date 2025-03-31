@@ -85,3 +85,8 @@ const wrap = new Swiper('.wrap', {
         }
     },
 })
+
+// 안전한 조건문으로 막아두기
+if (typeof wrap !== "undefined") {
+    wrap.mousewheel.enable();
+  }
